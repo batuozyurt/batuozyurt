@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=batuozyurt&label=Profile%20views&color=0e75b6&style=flat" alt="batuozyurt" /> </p>
 
-- 🌱 I’m currently learning Data Science and Machine Learning **Miuul & Veri Bilimi Okulu Data Science Path**
+- 🌱 I’m currently learning Data Science and Machine Learning **Miuul & VBO Data Scientist Bootcamp**
 
 - 📝 I regularly write articles on [https://medium.com/@batuhanozyurt](https://medium.com/@batuhanozyurt)
 
