@@ -3,19 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=batuozyurt&label=Profile%20views&color=0e75b6&style=flat" alt="batuozyurt" /> </p>
 
-- 🌱 I’m currently learning Data Science and Machine Learning **Veri Bilimi Okulu Data Science Path**
+- 🌱 I’m currently learning Data Science and Machine Learning **Miuul & Veri Bilimi Okulu Data Science Path**
 
-- 📝 I regularly write articles on [https://medium.com/@batuozyurt](https://medium.com/@batuozyurt)
+- 📝 I regularly write articles on [https://medium.com/@batuhanozyurt](https://medium.com/@batuhanozyurt)
 
 - 📫 How to reach me **ozyurt.batuhan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/batuozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuozyurt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/batuhan-ozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-ozyurt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/batuhan-%c3%96zyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="batuhan-%c3%96zyurt" height="30" width="40" /></a>
 <a href="https://kaggle.com/batuozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="batuozyurt" height="30" width="40" /></a>
-<a href="https://medium.com/@batuozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@batuozyurt" height="30" width="40" /></a>
+<a href="https://medium.com/@batuhanozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@batuozyurt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/batuzyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="batuzyurt" height="30" width="40" /></a>
 </p>
 
